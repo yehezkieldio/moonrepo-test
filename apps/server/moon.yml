@@ -1,0 +1,5 @@
+language: "go"
+
+tasks:
+  start:
+    command: "go run main.go"
